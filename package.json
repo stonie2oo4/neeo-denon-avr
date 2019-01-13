@@ -1,0 +1,24 @@
+{
+  "name": "neeo-denon-avr",
+  "version": "1.0.0",
+  "description": "Neeo SDK Denon AVR TCP Control",
+  "main": "index.js",
+  "dependencies": {
+    "denon-client": "^0.2.2",
+    "neeo-sdk": "^0.43.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "neeo-sdk start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stonie2oo4/neeo-denon-avr.git"
+  },
+  "author": "stonie2oo4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stonie2oo4/neeo-denon-avr/issues"
+  },
+  "homepage": "https://github.com/stonie2oo4/neeo-denon-avr#readme"
+}
